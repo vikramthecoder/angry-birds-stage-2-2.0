@@ -1,2 +1,2 @@
-# angry-birds-stage-2-2.0
-java script
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
